@@ -221,3 +221,9 @@ sharethrough.com, k5wdgasp, RESELLER, d53b998a7bd4ecd2
 pubnative.net, 1008379, RESELLER, d641df8625486a7b
 lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
 pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
+vidazoo.com, 66e04f5e4d7fd89d878d29d2, RESELLER, b6ada874b4d7d0b2
+smartclip.net, 27985, RESELLER
+sharethrough.com, k5wdgasp, RESELLER, d53b998a7bd4ecd2
+pubnative.net, 1008379, RESELLER, d641df8625486a7b
+lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
